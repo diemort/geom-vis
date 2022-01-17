@@ -9,13 +9,19 @@ To dump the geometry, run the following command in a CMSSW area:
 
 The tags available are related to some components of the PPS geometry:
 
-`2021-simu`
-`PPSrun2`
-`PPSrun3`
-`PPSrun3_LeftArm`
-`PPSrun3_FixPixels`
-`PPS-Timing_Cylindrical`
-`PPS-Timing_Box-simu`
+:white_check_mark: `2021-simu`
+
+:white_check_mark: `PPSrun2`
+
+:white_check_mark: `PPSrun3`
+
+:x: `PPSrun3_LeftArm`
+
+:x: `PPSrun3_FixPixels`
+
+:x: `PPS-Timing_Cylindrical`
+
+:x: `PPS-Timing_Box-simu`
 
 To visualise the geometry dumped with cmsShow, run the following script:
 
